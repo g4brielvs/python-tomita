@@ -90,7 +90,14 @@ html_theme = "alabaster"
 # theme further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    "github_user": "g4brielvs",
+    "github_repo": "python-tomita",
+    "github_banner": "true",
+    "show_powered_by": "false",
+    "github_type": "star",
+    "description": "A command-line music and synthesizer package",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

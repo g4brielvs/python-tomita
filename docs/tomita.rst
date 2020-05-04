@@ -1,6 +1,14 @@
 tomita package
 ==============
 
+Subpackages
+-----------
+
+.. toctree::
+
+    tomita.core
+    tomita.legacy
+
 Submodules
 ----------
 

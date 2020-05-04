@@ -32,7 +32,7 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/g4brielvs/python-tomita
+    $ git clone https://github.com/g4brielvs/python-tomita.git
 
 Or download the `tarball`_:
 
